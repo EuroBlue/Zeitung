@@ -152,7 +152,6 @@ public class Register extends MainClass implements ActionListener {
 	@Override
 	public void actionPerformed(ActionEvent click) 
 	{
-		// TODO Auto-generated method stub
 		if(click.getSource()==registerKnopf)
 		{
 			String a=userField.getText();
