@@ -39,7 +39,9 @@ public class Login extends MainClass implements ActionListener {
 		loginLabel.setFont(new Font("Calibri", Font.PLAIN, 50));
 		loginLabel.setVisible(true);
 		loginPanel.add(loginLabel);
-		loginLabel.setVisible(true);		
+		loginLabel.setVisible(true)
+		
+		;		
 		userField=new JTextField();
 		userField.setBounds(250, 75, 250, 30);
 		userField.setFont(new Font("Calibri", Font.PLAIN, 25));
