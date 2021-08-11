@@ -14,7 +14,7 @@ import java.util.Scanner; // Import the Scanner class to read text files
 public class MainClass{
 	private static String inFile;
 	private static String inFile2;
-    public static File db = new File("E:\\zt_db.txt");
+    public static File db = new File("src\\zt_db.txt");
 	static ImageIcon icon=new ImageIcon("src\\icon.png");
     //static ImageIcon icon=new ImageIcon("E:\\icon.png");
 	static Object [] yes_no= {"Yes","No"};
