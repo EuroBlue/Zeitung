@@ -1,3 +1,9 @@
 .vscode/settings.json
 README.md
 src/zt_db.txt
+bin/Anzeige.class
+bin/Kunde.class
+bin/Cabinet.class
+bin/MainClass.class
+bin/Login.class
+bin/Register.class
